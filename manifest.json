@@ -1,0 +1,22 @@
+{
+  "short_name": "TaskPulse",
+  "name": "TaskPulse Pro - Modern Task Management App",
+  "description": "オフラインおよびクラウド同期に対応したタスク管理PWAアプリ",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2387/2387679.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2387/2387679.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
